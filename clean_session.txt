@@ -1,5 +1,0 @@
-Script started on 2026-06-13 17:42:34+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="95" LINES="31"]
-0m27m24mJ32m┌──(1m32m34mkali㉿kali0m34m32m)-[1m32m39m~/Desktop0m32m]
-└─1m32m34m$0m34m39m K?1h?2004h36ms36mg336ms39m3939m4ms244ms24m38;5;244mudo ufw status39m1424m 39m 39m 39m 39m 39m 39m 39m 39m 39m 39m 39m 39m 39m 39m 15D4me244me4mx224m36me24m36mx336me36mx36mi39m4me39m4mx39m4mi244mi4m24m36me24m36mx24m36mi24m36mt39m?1l?2004l
-
-Script done on 2026-06-13 17:43:48+05:30 [COMMAND_EXIT_CODE="0"]
